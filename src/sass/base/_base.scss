@@ -113,7 +113,7 @@ blockquote {
 	margin: 0 0 1em;
 	padding: 0 0 0 2.22222em;
 	position: relative;
-    family-font: $font-family-header;
+    font-family: $font-family-header;
 
 	&:before {
 		color: currentColor;
