@@ -33,7 +33,12 @@ body {
   font-style: normal;
 }
 
-
+@font-face {
+  font-family: "M";
+  src: url("../fonts/WhyteInktrap-Bold.ttf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
 
 $font-family-header: 'W', BlinkMacSystemFont, 'Segoe UI', 'Roboto',
     'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
