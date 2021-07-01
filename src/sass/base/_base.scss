@@ -26,15 +26,6 @@ body {
 	}
 }
 
- @font-face {
-   font-family: 'Neue';
-   src: url('/NeueHaasGroteskDisplayBold.otf') format('opentype');
-   font-weight: 700;
-   font-style: normal;
-   font-display: swap;
-   letter-spacing: .2em;
-}
-
 $font-family-header: 'Neue', BlinkMacSystemFont, 'Segoe UI', 'Roboto',
     'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
