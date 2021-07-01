@@ -26,6 +26,13 @@ body {
 	}
 }
 
+@font-face {
+  font-family: "N";
+  src: url("../fonts/NeueMontrealBold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
 $font-family-header: 'Neue', BlinkMacSystemFont, 'Segoe UI', 'Roboto',
     'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
