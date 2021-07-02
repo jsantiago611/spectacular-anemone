@@ -16,6 +16,7 @@ sections:
     background_image_opacity: 8
     background_image_size: contain
     background_image_repeat: repeat
+    title: 'A Digital Handbook to help you '
 seo:
   type: stackbit_page_meta
   title: Stackbit Personal Theme
