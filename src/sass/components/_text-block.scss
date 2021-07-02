@@ -29,10 +29,9 @@
 	blockquote,
 	pre,
 	hr {
-
+        color: blue;
 		&:first-child {
 			margin-top: 0;
-        color: blue;
 		}
 	}
 }
