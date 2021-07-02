@@ -276,6 +276,20 @@ figcaption {
     margin-bottom: .5rem;
 	}
 
+p {
+        -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    font-size: 1.5rem;
+    line-height: 1;
+    letter-spacing: -.015em;
+    hyphens: auto;
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: currentColor;
+    margin: 0;
+    margin-bottom: 1.25em;
+}
 
 	html {
 		font-size: 100%;
