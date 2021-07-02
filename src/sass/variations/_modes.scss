@@ -315,7 +315,7 @@
 
 	@include media-breakpoint-down(md) {
 		.navbar__container {
-			background-color: red;
+			background-color: $blue;
 		}
 
 		.navbar__menu {
