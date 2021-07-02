@@ -10,7 +10,7 @@ sections:
       - type: action
         label: Contact Me
         url: /contact
-        style: primary
+        style: secondary
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
