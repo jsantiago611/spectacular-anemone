@@ -5,9 +5,7 @@ sections:
     title: >-
       Tools to help Christians enhance their devotional life and live out their
       faith.
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: Experiments in Christian Lifestyle Design.
     actions:
       - type: action
         label: Contact Me
