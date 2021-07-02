@@ -11,6 +11,7 @@ sections:
         label: Contact Me
         url: /contact
         style: link
+        has_icon: true
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
