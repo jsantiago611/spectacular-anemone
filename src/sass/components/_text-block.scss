@@ -25,14 +25,16 @@
 
 	hr {
 		margin: 2.22222em 0;
-        font-family: $font-family-header;
+  
 	}
 
 	blockquote,
 	pre,
 	hr {
+              font-family: $font-family-header;
 		&:first-child {
 			margin-top: 0;
+
 		}
 	}
 }
