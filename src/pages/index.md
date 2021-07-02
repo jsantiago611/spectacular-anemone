@@ -2,9 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: >-
-      Tools to help Christians enhance their devotional life and live out their
-      faith.
     subtitle: Experiments in Christian Lifestyle Design.
     actions: []
     image_alt: A smiling woman
