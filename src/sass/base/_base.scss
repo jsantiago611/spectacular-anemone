@@ -256,6 +256,7 @@ figcaption {
 
 @include media-breakpoint-down(sm) {
 	h1 {
+         -webkit-text-size-adjust: 100%;
 		 -webkit-font-smoothing: antialiased;
     letter-spacing: -.015em;
     box-sizing: border-box;
