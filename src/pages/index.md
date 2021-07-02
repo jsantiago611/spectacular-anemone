@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to the Discipleship Lab.
+    title: >-
+      Tools to help Christians enhance their devotional life and live out their
+      faith.
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
