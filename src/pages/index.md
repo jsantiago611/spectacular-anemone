@@ -6,13 +6,7 @@ sections:
       Tools to help Christians enhance their devotional life and live out their
       faith.
     subtitle: Experiments in Christian Lifestyle Design.
-    actions:
-      - type: action
-        label: Contact Me
-        url: /contact
-        style: link
-        has_icon: true
-        icon: arrow-right
+    actions: []
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
