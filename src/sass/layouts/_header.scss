@@ -87,7 +87,7 @@
 
 		.menu__item {
 			margin-bottom: 0.55556rem;
-            $font-family-mono
+            font-family: $font-family-mono;
 
 			& + .menu__item-btn {
 				margin-top: 0.83333rem;
