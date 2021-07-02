@@ -256,7 +256,18 @@ figcaption {
 
 @include media-breakpoint-down(sm) {
 	h1 {
-		font-size: 2.22222em;
+		 -webkit-font-smoothing: antialiased;
+    letter-spacing: -.015em;
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: currentColor;
+    margin: 0;
+    font-weight: inherit;
+    display: inline-block;
+    font-size: 2.5rem;
+    line-height: 1;
+    margin-bottom: .5rem;
 	}
 
 	h2 {
