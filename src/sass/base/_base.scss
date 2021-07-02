@@ -187,7 +187,7 @@ p {
     margin: 0;
     margin-bottom: 1.25em;
     
-    ::selection {
+    &::selection {
     background-color: $teal;
 }
 }
