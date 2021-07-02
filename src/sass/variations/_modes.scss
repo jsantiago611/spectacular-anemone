@@ -315,12 +315,11 @@
 
 	@include media-breakpoint-down(md) {
 		.navbar__container {
-			background-color: $blue;
+			background-color: $color-dark-nav-mobile-bg;
 		}
 
 		.navbar__menu {
 			border-color: $color-dark-nav-mobile-border;
-            background-color: $blue;
 		}
 	}
 
