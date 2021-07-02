@@ -13,7 +13,7 @@
         "primary_nav_links": [
             {
                 "type": "action",
-                "label": "FAQ",
+                "label": "/FAQ",
                 "url": "/faq",
                 "style": "link"
             },
