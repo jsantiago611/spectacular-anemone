@@ -12,6 +12,7 @@ sections:
         url: /contact
         style: link
         has_icon: true
+        icon: arrow-right
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
