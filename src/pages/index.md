@@ -16,7 +16,7 @@ sections:
     background_image_opacity: 8
     background_image_size: contain
     background_image_repeat: repeat
-    title: A Digital Handbook to help you make the most of your faith.
+    title: A Digital Handbook on Christian Lifestyle Design.
 seo:
   type: stackbit_page_meta
   title: Stackbit Personal Theme
