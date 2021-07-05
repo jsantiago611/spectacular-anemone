@@ -16,7 +16,7 @@ sections:
     background_image_opacity: 8
     background_image_size: contain
     background_image_repeat: repeat
-    title: 'A Digital Handbook on <h2 color:red>Christian Lifestyle Design.</h2>'
+    title: A Digital Handbook on Christian Lifestyle Design.</h2>
 seo:
   type: stackbit_page_meta
   title: Stackbit Personal Theme
