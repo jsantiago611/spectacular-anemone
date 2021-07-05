@@ -40,12 +40,6 @@
             },
             {
                 "type": "action",
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Contact me",
                 "url": "/contact",
                 "style": "link"
