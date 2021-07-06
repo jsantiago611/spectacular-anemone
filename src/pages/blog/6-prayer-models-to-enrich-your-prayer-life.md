@@ -1,7 +1,8 @@
 ---
 title: 6 Prayer Models to Enrich your prayer life
 date: '2021-07-06'
-categories: []
+categories:
+  - src/data/categories/category-2fyyss1uq.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
