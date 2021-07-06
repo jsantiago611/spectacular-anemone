@@ -17,8 +17,7 @@ sections:
     background_image_size: contain
     background_image_repeat: repeat
     title: A Digital Handbook on Christian Lifestyle Design.
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
