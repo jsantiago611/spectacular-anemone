@@ -19,7 +19,7 @@ sections:
     title: A Digital Handbook on Christian Lifestyle Design.
   - actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Prayer
         subtitle: lorem-ipsum
         title_align: left
         content: >-
