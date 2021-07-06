@@ -30,7 +30,7 @@
     "footer": {
         "type": "footer",
         "logo_alt": "Alyvia logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "type": "action",
