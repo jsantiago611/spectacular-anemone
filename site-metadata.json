@@ -19,7 +19,7 @@
             },
             {
                 "type": "action",
-                "label": "/Contact",
+                "label": "Contact",
                 "url": "/contact",
                 "style": "link"
             }
