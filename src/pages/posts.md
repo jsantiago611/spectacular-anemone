@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: All Posts
 seo:
   title: ''
   description: ''
