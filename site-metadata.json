@@ -13,7 +13,7 @@
         "primary_nav_links": [
             {
                 "type": "action",
-                "label": "ABOUT",
+                "label": "About",
                 "url": "/about",
                 "style": "link"
             },
