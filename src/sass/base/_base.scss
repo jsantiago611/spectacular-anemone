@@ -198,8 +198,8 @@ p {
     -webkit-font-smoothing: antialiased;
     line-height: 1.2;
     letter-spacing: -.015em;
-    font-size: 2rem;
-    hyphens: auto;
+   line-height: 1.55;
+    font-size: calc( 17px + (24 - 17) * ( 100vw - 400px ) / (2500 - 400) );    hyphens: auto;
     box-sizing: border-box;
     border-width: 0;
     border-style: solid;
