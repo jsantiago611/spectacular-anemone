@@ -122,6 +122,7 @@ h6 {
 
 h1 {
     font-size: calc( 36px + (108 - 36) * ( 100vw - 400px ) / (2500 - 400) );
+    line-height: 1.025;
 }
 
 h2 {
