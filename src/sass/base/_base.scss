@@ -129,7 +129,7 @@ h2 {
 }
 
 h3 {
-     font-size: 3.5rem;
+    font-size: calc( 24px + (48 - 24) * ( 100vw - 400px ) / (2500 - 400) );
 }
 
 h4 {
