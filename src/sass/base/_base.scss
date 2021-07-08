@@ -133,15 +133,15 @@ h3 {
 }
 
 h4 {
-    font-size: 3rem;
+    font-size: calc( 24px + (48 - 24) * ( 100vw - 400px ) / (2500 - 400) );
 }
 
 h5 {
-     font-size: 2.5rem;
+    font-size: calc( 24px + (48 - 24) * ( 100vw - 400px ) / (2500 - 400) );
 }
 
 h6 {
-     font-size: 2rem;
+    font-size: calc( 24px + (48 - 24) * ( 100vw - 400px ) / (2500 - 400) );
 }
 
 mark,
