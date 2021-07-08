@@ -31,9 +31,9 @@
 	hr {
         color: $blue;
         font-style: normal;
+        font-family: $font-family-mono;
 		&:first-child {
 			margin-top: 0;
-            font-family: $font-family-mono;
 		}
 	}
 }
