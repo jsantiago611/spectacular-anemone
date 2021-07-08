@@ -125,9 +125,7 @@ h1 {
 
 h2 {
      font-size: 4rem;
-     
-    line-height: 1.2;
-    font-size: calc( 28px + (72 - 28) * ( 100vw - 400px ) / (2500 - 400) );
+         font-size: calc( 28px + (72 - 28) * ( 100vw - 400px ) / (2500 - 400) );
 }
 
 h3 {
