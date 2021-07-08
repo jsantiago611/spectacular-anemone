@@ -1,6 +1,5 @@
 ---
 title: 5 Prayer Models to add to your routine
-subtitle: lorem-ipsum
 date: '2021-07-08'
 categories: []
 tags:
