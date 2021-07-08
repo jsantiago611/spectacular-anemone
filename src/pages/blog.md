@@ -1,7 +1,7 @@
 ---
 title: Blog
 sections:
-  - title: lorem-ipsum
+  - title: Blog
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
