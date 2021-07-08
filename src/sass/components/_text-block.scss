@@ -33,6 +33,7 @@
         font-style: normal;
 		&:first-child {
 			margin-top: 0;
+            font-family: $font-family-mono;
 		}
 	}
 }
