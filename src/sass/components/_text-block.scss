@@ -29,8 +29,8 @@
 	blockquote,
 	pre,
 	hr {
-        color: red;
-        font-style: italic;
+        color: $blue;
+        font-style: normal;
         font-family: $font-family-mono;
 		&:first-child {
 			margin-top: 0;
