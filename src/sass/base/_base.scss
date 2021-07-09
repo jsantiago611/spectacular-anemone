@@ -61,6 +61,13 @@ body {
   font-style: normal;
 }
 
+@font-face {
+  font-family: "PolySans";
+  src: url("../fonts/Tobias-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+
 $font-family-header: 'Soehne', BlinkMacSystemFont, 'Segoe UI', 'Roboto',
     'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
