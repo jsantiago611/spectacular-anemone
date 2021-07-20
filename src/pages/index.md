@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     subtitle: >-
       Experiments in Christian Lifestyle Design. Tools to help Christians
-      enhance their devotional life and live out their faith. Tools that help
+      enhance their devotional life and live out their faith. On this site, we
+      explore the tools and techniques that help us to
     actions: []
     image_alt: A smiling woman
     media_position: right
