@@ -1,5 +1,5 @@
 ---
-title: Family Discipleship (Matt Chandler) -
+title: Family Discipleship (Matt Chandler) - Book Summary
 subtitle: lorem-ipsum
 date: '2021-07-20'
 categories: []
