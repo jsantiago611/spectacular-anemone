@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/fd.png
+thumb_image: /images/fabulous-comet.png
 ---
 ## Lorem ipsum
 
