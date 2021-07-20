@@ -1,5 +1,5 @@
 ---
-title: Family Discipleship
+title: Family Discipleship (Matt Chandler) -
 subtitle: lorem-ipsum
 date: '2021-07-20'
 categories: []
