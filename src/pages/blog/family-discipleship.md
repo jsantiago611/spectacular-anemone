@@ -1,6 +1,6 @@
 ---
 title: Family Discipleship (Matt Chandler) - Book Summary
-subtitle: 'How to lead your family through time, moments, & Milestones'
+subtitle: 'How to lead your family through time, Moments, & Milestones'
 date: '2021-07-20'
 categories: []
 tags: []
