@@ -20,9 +20,7 @@ template: post
 image: /images/fd.png
 thumb_image: /images/fabulous-comet.png
 ---
-## Lorem ipsum
+Introductory comments.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## The Book in 3 Sentences
 
-- Lorem ipsum
-- dolor sit amet
