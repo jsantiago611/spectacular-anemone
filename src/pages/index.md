@@ -9,7 +9,7 @@ sections:
       spiritual habits.
     actions: []
     image_alt: A smiling woman
-    media_position: left
+    media_position: top
     media_width: fourty
     align: left
     padding_top: large
