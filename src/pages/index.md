@@ -19,7 +19,6 @@ sections:
     background_image_size: contain
     background_image_repeat: repeat
     title: A Digital Handbook on Christian Lifestyle Design.
-    image: /images/rsz_screenshot_2021-07-27_112624-removebg-preview.png
 seo:
   type: stackbit_page_meta
   title: Stackbit Personal Theme
