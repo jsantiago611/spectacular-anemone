@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: book
 sections:
   - title: Book Summaries
     subtitle: lorem-ipsum
