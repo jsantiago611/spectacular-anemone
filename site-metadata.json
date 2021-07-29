@@ -30,7 +30,8 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo": "/images/dlabs green.png"
     },
     "footer": {
         "type": "footer",
