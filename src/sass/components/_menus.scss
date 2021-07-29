@@ -18,7 +18,7 @@
 	}
 
 	a:not(.btn) {
-		color: $gold;
+		color: $cream;
 		display: inline-block;
 		position: relative;
 		text-decoration: none;
@@ -27,7 +27,7 @@
 	a:not(.btn):hover,
 	&.is-active a {
 		/*text-decoration: underline;*/
-        color: $orange;
+        color: $gold;
         font-weight:600;
 	}
 }
