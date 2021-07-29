@@ -45,7 +45,7 @@ export default class BlogFeedSection extends React.Component {
             		<div className="section__subtitle">{_.get(section, 'subtitle', null)}</div>
             		)}
             		{_.get(section, 'title', null) && (
-            		<h2 style={{fontFamily:'tobias', fontWeight: "100", letterSpacing: -0.4}} className="section__title mt-0">{_.get(section, 'title', null)}</h2>
+            		<h2 style={{fontSize: font-size: calc( 32px + (92 - 32) * ( 100vw - 400px ) / (2500 - 400) );fontFamily:'tobias', fontWeight: "100", letterSpacing: -0.4}} className="section__title mt-0">{_.get(section, 'title', null)}</h2>
             		)}
             	</div>
             	)}
