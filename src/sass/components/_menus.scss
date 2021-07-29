@@ -27,6 +27,6 @@
 	a:not(.btn):hover,
 	&.is-active a {
 		text-decoration: underline;
-        color: #F37B02;
+        color: $orange;
 	}
 }
