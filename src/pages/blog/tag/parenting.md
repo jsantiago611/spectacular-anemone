@@ -2,7 +2,6 @@
 title: Parenting
 sections:
   - title: Parenting
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
