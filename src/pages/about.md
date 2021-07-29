@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Discipleship Labs
 seo:
   type: stackbit_page_meta
   title: About
