@@ -30,7 +30,8 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo": "/images/rsz_screenshot_2021-07-27_112624-removebg-preview.png"
     },
     "footer": {
         "type": "footer",
