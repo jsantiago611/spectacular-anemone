@@ -5,7 +5,8 @@
 .post__byline {
 	color: $color-meta;
 	font-size: 0.88889em;
-    font-family: "soehne";
+    font-family: $font-family-mono;
+;
 
 	a {
 		color: inherit;
