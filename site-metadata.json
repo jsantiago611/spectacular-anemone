@@ -115,7 +115,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; 2021 This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Discipleship Labs 2021 This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "domain": "https://spectacular-anemone-e107f.netlify.app",
     "favicon": "/images/magenta-planet.png"
