@@ -23,7 +23,7 @@ sections:
   - title: Latest
     actions: []
     blog_feed_cols: three
-    enable_cards: true
+    enable_cards: false
     show_recent: false
     recent_count: 0
     show_date: true
