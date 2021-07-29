@@ -1,7 +1,7 @@
 ---
 title: Parenting
 sections:
-  - title: lorem-ipsum
+  - title: Parenting
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
