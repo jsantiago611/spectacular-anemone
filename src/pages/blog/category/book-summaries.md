@@ -2,7 +2,6 @@
 title: Book Summaries
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
