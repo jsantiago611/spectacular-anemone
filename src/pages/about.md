@@ -37,8 +37,16 @@ Reach out sd
 
 ### Colophon
 
+sdf
+
 ### License
+
+sdf
 
 ### Technical Notes
 
+sdf
+
 ### Theological Perspective
+
+sdf
