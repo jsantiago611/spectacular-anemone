@@ -18,7 +18,7 @@
                 "style": "link"
             },
             {
-                "label": "📚Essays",
+                "label": "paperEssays",
                 "url": "/blog",
                 "style": "link",
                 "has_icon": false,
