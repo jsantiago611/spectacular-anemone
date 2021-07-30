@@ -29,11 +29,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-> Your mind is your most precious asset. -Anne-Laure Le Cunff (
->
-> [twitter handle](https://twitter.com/anthilemoon)
->
-> )
+> Your mind is your most precious asset. -[Anne-Laure Le Cunff](https://twitter.com/anthilemoon)
 
 ### Hey!
 
