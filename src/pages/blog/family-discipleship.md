@@ -21,8 +21,12 @@ image: /images/fd.png
 thumb_image: /images/fabulous-comet.png
 author: src/data/team/person-wrvpcy8yw.yaml
 ---
-Introductory comments.
+It’s that time of year again: time to begin planning for the 2021-22 academic year at Harvard Extension School. Registration for fall courses opens on Monday, July 26 (or Thursday, July 22 for degree candidates). 
 
-## The Book in 3 Sentences
+Take a look at what’s new at Harvard Extension School for the upcoming school year. 
 
-> This isa quote. Why can't it be Tobias?
+## The biggest course catalog yet
+
+This year, you have the opportunity to choose from more than 1,000 courses in our course catalog.
+
+This extensive catalog offers courses that apply toward 42 graduate certificates and 26 graduate degrees, as well as to the undergraduate degree and certificates. Here’s a sampling of our newest courses:
