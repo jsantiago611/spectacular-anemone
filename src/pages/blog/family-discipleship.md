@@ -19,7 +19,6 @@ seo:
 template: post
 image: /images/fd.png
 thumb_image: /images/fabulous-comet.png
-author: src/data/team/person-wrvpcy8yw.yaml
 ---
 It’s that time of year again: time to begin planning for the 2021-22 academic year at Harvard Extension School. Registration for fall courses opens on Monday, July 26 (or Thursday, July 22 for degree candidates). 
 
