@@ -1,5 +1,5 @@
 ---
-title: Family Discipleship (Chandler & Griffin) - Book Summary
+title: Family Discipleship
 subtitle: 'or, "How to lead your family through Time, Moments, & Milestones"'
 date: '2021-07-20'
 categories:
