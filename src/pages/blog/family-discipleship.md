@@ -20,7 +20,9 @@ template: post
 image: /images/fd.png
 thumb_image: /images/fabulous-comet.png
 ---
-### Introduction
+### ---
+
+Introduction
 
 \*\*\*\*\*\*Scripture for
 the most part is left out. Only main ideas are communicated here.\*\*\*\*\*\*\*\*\*\*\*
@@ -43,7 +45,7 @@ great need for grace regarding what they wish they would have done.”
 
 2.      You will feel inadequate. Concerning your knowledge of God. Or your ability
 to teach. Be encouraged, this is God’s work. We cannot save our children. We
-are merely invited to be part of the journey. 
+are merely invited to be part of the journey.
 
 3.      Not all children will know God. Remember: “there is no ‘hopeless case’ or a ‘lost
 cause’. When the God of the Bible is involved.” 20 “Despite bumps along the
@@ -55,18 +57,18 @@ book:
 
 ·        
 Read
-actively, making notes, answering questions, and filling in the charts. 
+actively, making notes, answering questions, and filling in the charts.
 
 ·        
 If
 married, read with spouse “to help you get in sync”. If single or have an
 unbelieving spouse, “use as a motivator to ask some of your trusted church community
-to go through the framework of time, moments, and milestones…” 
+to go through the framework of time, moments, and milestones…”
 
 What we are not
 saying about leading your family: 24
 
-*1.       *We are not asking you to make your kids the
+\*1.       \*We are not asking you to make your kids the
 most important thing in your life.
 “we want to be experts at fighting the temptation to put our family first in a
 way that usurps following our God.”24
@@ -86,9 +88,9 @@ at your and wising your kids were born in a different family.”
 
 5.      We are not asking you to fake it. Your kids see you at your worst, which is why
 we should own up and apologize to them and God. But that’s not an excuse to
-stop pushing forward to get better. 
+stop pushing forward to get better.
 
-6.    We are not saying you are alone in this. 
+6.    We are not saying you are alone in this.
 
 7.       We are not saying every parent is qualified to
 disciple their kids. When
@@ -96,7 +98,7 @@ parents are unable to be with their children, the church should rise up to
 help.
 
 8.      We are definitely not minimizing how important
-this is. 
+this is.
 
  
 
@@ -117,7 +119,7 @@ family become friends and followers of Jesus.” 30
 
 “Think less of them
 as students in your home university and more as apprecentices invited to study
-and exercise the way of God they see in and hear about from you.” 
+and exercise the way of God they see in and hear about from you.”
 
 “..is the charge
 to  realign your priorities, to acknowledge
@@ -133,13 +135,13 @@ is not…
 
 ·        
 Family Discipleship
-is not freeform spiritual exploration. 
+is not freeform spiritual exploration.
 
 ·        
 Family
 Discipleship is not using the word of God in order to get your way. “it’s easy
 to create a home where it seems God loves us when we are good and is angre when
-we are bad…love the kids you have, not the kids you wish you had.” 
+we are bad…love the kids you have, not the kids you wish you had.”
 
 ·        
 Family Discipleship
@@ -151,7 +153,7 @@ and alienation.”
 Family Discipleship
 is not a strategy to become an admired person. Don’t feel the need to impress
 your kids, but rather “impress upon them their desperate need for a heavenly
-father.” This one got me. 
+father.” This one got me.
 
 ·        
 Family Discipleship
@@ -163,7 +165,7 @@ Family Discipleship? …
 ·        
 Family
 Discipleship is mostly ordinary., tied in with the natural rhymthms of the family
-that already exist. 
+that already exist.
 
 ·        
 Family
@@ -186,7 +188,7 @@ all that we do.”…”We value discipline, obedience, repentance, grace, and f
 The Foundation
 
 God has created 2
-types of families to aid in the discipling of our children: 
+types of families to aid in the discipling of our children:
 
 ·        
 The
@@ -206,7 +208,7 @@ Although our culture
 has normalized the “Outsourcing” of our the education and training of our children
 to “professionals…teachers, counselors, tutors, coaches, and churches.”, we are
 given the primary “responsibility of religious instruction…as outlined in
-scripture.” 
+scripture.”
 
 This should be our priority,
 not outsourced to a church.  1Tim 3:4-5.
@@ -216,17 +218,17 @@ This is hard, because..
 ·        
 of sin,
 which brings “some version of harmful actions, neglect, selfish passivity, and
-conflict into every family.” 
+conflict into every family.”
 
 ·        
 Also, we
-can sometimes react poorly to the recognition of sin. 
+can sometimes react poorly to the recognition of sin.
 
 ·        
 “one the main
 disfunctions of family is withholding love, affection, or approval because a
 child has not met a parental expectation.” Love them better than they deserve.
-That’s a reflection of God’s love. 
+That’s a reflection of God’s love.
 
 What is the Church’s
 role in Family Discipleship?
@@ -255,7 +257,7 @@ and trained.
 and obeyed.
 
 6.      God tells and shows us what to teach children.
-God’s word. The Gospel. Trusting God. Proverbs. Jesus. 
+God’s word. The Gospel. Trusting God. Proverbs. Jesus.
 
 7.       God does not take family responsibilities
 lightly.matt 18:6
@@ -290,11 +292,11 @@ Examples:
 
 ·        
 Chandler
-House: Get up early to study and pray. Model hospitality. Model repentance. 
+House: Get up early to study and pray. Model hospitality. Model repentance.
 
 ·        
 Griffin
-House: Love neighbors. 
+House: Love neighbors.
 
 *How do we do this?*
 
@@ -303,7 +305,7 @@ example worth following you should be both reliable and relatable for your child
 – a person of repentant integrity in relational proximity to your family.
 
 2 key components of
-Modeling: 
+Modeling:
 
 1.       We must be Reliable: You must have integrity. You’re
 honest about your strengths and shortcomings. Be a role model of what you want
@@ -316,13 +318,13 @@ see who you really are. Be vulnerable enough to let someone see your life—how 
 make choices, how you handle failure, and how you turn to God’s word to
 determine who you are and what you’re called to.” But its not just “Being Christian
 near your children.” It’s active participation. Inviting them to come alongside
-you and point out what you do/believe and why. 
+you and point out what you do/believe and why.
 
 Some of us have to do
 Remodeling, if we never had a Godly example growing up. We do that by:
 
 1.       Ask for a forgiving heart towards your parents
-mistakes. 
+mistakes.
 
 2.      Understand that you’re not going to automatically
 walk in their footsteps. You won’t repeat their mistakes as you forge a new
@@ -339,22 +341,22 @@ your life loves):
 habits and disciplines of Christianity like:
 
 a.      Reflect on your obedience and responses to
-God. 
+God.
 
-b.      Seek to understand what the Bible says. 
+b.      Seek to understand what the Bible says.
 
 c.      Pray “with, for, and in front of your kids.”
 
-d.      Invite accountability to your life. 
+d.      Invite accountability to your life.
 
 2.      Love yourself. Don’t’ be narcissistic, but don’t beat
 yourself up either. If you put yourself down around you kids, they’ll imitate
 that, which will destroy any self-esteem and confidence in what God says about
 them. If you are God’s children, why belittle yourself? Why put your identity
-in your kids? 
+in your kids?
 
 3.      Love your neighbor. Children won’t naturally
-do this, so it must be modeled. 
+do this, so it must be modeled.
 
 4.      Love your spouse. One day the kids will grow
 up, and must reference your marriage as what to look for in their spouse. The
@@ -374,13 +376,12 @@ be one of your highest calendar priorities.”
 
 ·        
 Give it
-everything you’ve got. 
+everything you’ve got.
 
 ·        
 Structure
 usually has bible reading, prayer, worship and conversation, but format and
 length can flex and change depending on how old the kids are and what’s your schedule.
-
 
 ·        
 Doesn’t
@@ -388,11 +389,11 @@ have to be perfect.
 
 ·        
 Kids are
-capable of memorizing much. 
+capable of memorizing much.
 
 ·        
 Give
-opportunities to practice this by serving others. 
+opportunities to practice this by serving others.
 
 Helpful to me was
 Griffin’s and how they built this into their bedtime routine. They read a bible
@@ -407,12 +408,12 @@ effectiveness the more ordinary and familiar it becomes.”
 The
 easiest way to become consistent is to build it into an existing routine, like
 a bedtime, meal time, outing, commute, after/before church. Make it weekly or
-daily but like Deut 6 says….just don’t quit. 
+daily but like Deut 6 says….just don’t quit.
 
 To
 become purposeful means that you design the time. It wont just happen. Also,
 you’ve got to invest time and energy into it. We wouldn’t be unprepared for
-work, so we shouldn’t take this lightly either. 
+work, so we shouldn’t take this lightly either.
 
 “Take
 stock of what takes up your time and energy, and make sure that family
@@ -432,7 +433,7 @@ How many
 
 ·        
 What is
-\__\_? 
+\__\_?
 
 ·        
 What do
@@ -482,15 +483,15 @@ What does
 it look like in our family?
 
 Keep it simple and fun,
-or your kids won’t look forward to it. 
+or your kids won’t look forward to it.
 
 Daily Ideas: build
-around family meals, pray together, bedtime routine, during family commutes. 
+around family meals, pray together, bedtime routine, during family commutes.
 
 Weekly ideas: movie
 night with useful theme, game night to encourage fruit of Spirit, restaurant night
 and talk about faith. Worship service. Family Study/Devotions/worship. Family
-Traditions. 
+Traditions.
 
 Monthly: Serve in
 community, one-on-one time, Guys/girls night. Block party.
@@ -499,7 +500,7 @@ Moments
 
 “Family Discipleship
 moments are capturing and leveraging opportunities in the course or everyday
-life for the purpose of gospel-centered conversations. 
+life for the purpose of gospel-centered conversations.
 
 ·        
 These
@@ -509,7 +510,7 @@ take note of evidence of God and applications of the gospel nearby.”
 
 ·        
 Reminds
-me of Ben and the birds. 
+me of Ben and the birds.
 
 ·        
 “A single
@@ -520,182 +521,179 @@ seeds.
 Here’s
 how: STOP what your doing. LOOK at them in the eye. LISTEN to what you perceive
 they are feeling, and TALK with encouraging works. STOP LOOK LISTEN SPEAK.
-Simple. 
+Simple.
 
 ·        
 I like
 how the Griffins use this to calm their chilren’s bedtime fears by reminding
-the kids of God’s never sleeping and caring presence. 
+the kids of God’s never sleeping and caring presence.
 
 “As a parent,
 seeking to disciple as Jesus discipled means being attentive and alert, looking
 for opportunities to train your children by applying biblical truth to your
-present circumstances. 
+present circumstances.
 
 We should use these
-moments to teach about God’s character, or about Godly character. 
+moments to teach about God’s character, or about Godly character.
 
 “Memorizing God’s
 word can make you a more effective disciple-maker and help you leverage family discipleship
 moments for the sake of gospel conversations.
 
 We should craft
-discipleship language that our children can understand and use. 
+discipleship language that our children can understand and use.
 
 I liked the Village
 Church NextGen foundational truths:
 
-1.       Jesus came to save sinners. 
+1.       Jesus came to save sinners.
 
-2.      God is good. 
+2.      God is good.
 
-3.      God is in charge of everything. 
+3.      God is in charge of everything.
 
-4.      God wants to talk with us. 
+4.      God wants to talk with us.
 
-5.      God made everything. 
+5.      God made everything.
 
 Define the characteristics
 of God:
 
-1.       Wise: God knows what is best. 
+1.       Wise: God knows what is best.
 
 2.      Generous: God gives what is best.
 
 3.      Loving: God does what is best.
 
-4.      Good: God is what is best. 
+4.      Good: God is what is best.
 
 5.      Unchanging: God was, is, and always will be
-the same. 
+the same.
 
 6.      Creator: God made everyone and everything.
 
-7.       Just. God is right to punish sin. 
+7.       Just. God is right to punish sin.
 
 8.      Faithful: God always does what he says he will
 do.
 
 9.      Provider. God meets the needs of his children.
 
-
 10.   Merciful. God does not give his children the
-punishment they deserve. 
+punishment they deserve.
 
 11.     Attentive. God hears and responds to the prayers
-of his children. 
+of his children.
 
-12.   Almighty. Nothing is too hard for God. 
+12.   Almighty. Nothing is too hard for God.
 
 13.   Compassionate. God sees, cares, and acts when
-his children are in need. 
+his children are in need.
 
-14.   Worthy. Only God deserves all the glory. 
+14.   Worthy. Only God deserves all the glory.
 
-15.   Deliverer. God rescues his children. 
+15.   Deliverer. God rescues his children.
 
 Godly Character
 
 1.       Patience. Being slow to anger, waiting kindly
 and quietly.
 
-2.      Joy. Delighting in things that honor God. 
+2.      Joy. Delighting in things that honor God.
 
 3.      Peace. A calm confidence in God’s goodness and
-power. 
+power.
 
 4.      Love. A caring commitment to God and others
-over yourself. 
+over yourself.
 
 5.      Goodness. Doing the right thing, at the right time,
-for the right reasons. 
+for the right reasons.
 
 6.      Kindness. Being generous with your possessions,
-your words, and your actions. 
+your words, and your actions.
 
 7.       Gentleness. Expressing compassion in words and
-actions. 
+actions.
 
 8.      Self-control. Freedom from obedience to our
-sinful thoughts and emotions. 
+sinful thoughts and emotions.
 
 Christian
 Vocabulary and Phrases
 
 1.       Repentance. To confess your sin and turn away
-from it to follow Jesus. 
+from it to follow Jesus.
 
 2.      Glorify. To show, honor, and enjoy Jesus as
 most valuable.
 
 3.      Pride. To show, honor, and enjoy yourself as
-most valuable. 
+most valuable.
 
-4.      Authority. The right to be in charge. 
+4.      Authority. The right to be in charge.
 
 5.      Compassion. To see, care, and act when others
-are in need. 
+are in need.
 
 6.      Worship. The right response to the goodness of
-God. 
+God.
 
 7.       Daily Bread. Everything we need to gladly
-glorify the Father. 
+glorify the Father.
 
 8.      Forgiveness. To release someone from their
-wrong. 
+wrong.
 
-9.      Disciple. A friend and follower of Jesus. 
+9.      Disciple. A friend and follower of Jesus.
 
-10.   Confession. Telling the truth about your sin. 
+10.   Confession. Telling the truth about your sin.
 
 11.     Grace. God freely gives his children what they
-don’t deserve. 
+don’t deserve.
 
 12.   Gospel. The good news of God’s plan to rescue
-the world from the problem of sin through Jesus Christ. 
+the world from the problem of sin through Jesus Christ.
 
 13.   God’s children. Those who love and trust Jesus.
 
-
 14.   God adopts into his family those who love and
-trust Jesus. 
+trust Jesus.
 
 15.   Kingdom of heaven. Where Jesus is honored as
-the highest and best king. 
+the highest and best king.
 
-16.   Heaven is good because God is there. 
+16.   Heaven is good because God is there.
 
 17.    The Bible. God’s true word. It is from God and
-about God. 
+about God.
 
 18.   Jesus. When we look at Jesus, we see what God
 is like. (b/c Jesus is God)
 
 19.   There are 2 ways we can know what is true. We
-can know with our minds; understanding. We can know with our hearts: belief. 
+can know with our minds; understanding. We can know with our hearts: belief.
 
 20.  Sin. It’s much more that just the bad things
 we think, feel, do, and say; it’s why we do them. Our hearts are sick with sin.
 
-
 21.   Sinful nature. All people are slaves of sin;
-we both choose to sin and have no choice but to sin. 
+we both choose to sin and have no choice but to sin.
 
 22.  Forgiveness. God forgives fully, freely, and
-forever. 
+forever.
 
 a.      Fully. All of your sin is forgiven, and it is
-forgiven in full. All my sin, all the way. 
+forgiven in full. All my sin, all the way.
 
 b.      Freely. Forgiveness is a gift, not something
-you can earn or deserve. 
+you can earn or deserve.
 
 c.      Forever. God’s forgiveness is lasting. He does
-not change his mind or take back his forgiveness. 
+not change his mind or take back his forgiveness.
 
 In Scripture, we
-should seek to memorize scriptures in the following areas: 
+should seek to memorize scriptures in the following areas:
 
 ·        
 “one
@@ -750,7 +748,6 @@ Identity
 ·        
 10 commandments.
 
-
 Milestones
 
 “Conclusion: Family
@@ -762,13 +759,13 @@ family and individual child.” Types of milestones;
 Making: Creating
 significant milestones to commemorate, celebrate, or commend spiritual growth.
 Pray, share, sing, feast, reward, etc. Attach God’s faithfulness to t=their “Firsts”.
-Use holidays. 
+Use holidays.
 
 ·        
 Marking: Unpredictable.
 Celebrate those milestones that you didn’t anticipate, such as salvation,
 baptism, even dark times like death can be used as reminders that Christ has
-conquered death. 
+conquered death.
 
 “Milestones can be momentous
 events, so they may require a greater level of creativity and effort, but that
@@ -777,7 +774,7 @@ is not required.”
 Examples: Heirlooms
 and momentos. Rituals and traditions. Events and experiences. Crafts and
 projects. Feasts and fasts. Monuments and memorials. Responsibility and
-authority. Symbols and crests. Journeys and destinations. 
+authority. Symbols and crests. Journeys and destinations.
 
  
 
@@ -793,7 +790,7 @@ Examples by age:
 ·        
 1 year
 old: throw birthday party, testify what you’ve seen, reaffirm your commitment
-to raise them in Christian home, invite others for prayer. 
+to raise them in Christian home, invite others for prayer.
 
 ·        
 2-4. Get
@@ -801,7 +798,7 @@ first bible .
 
 ·        
 5-10.
-Take to annual family adventures where we talk about God. 
+Take to annual family adventures where we talk about God.
 
 ·        
 11-14
@@ -818,4 +815,4 @@ school.
 
 ·        
 18+ Celeb
-graduation, college acceptance, job placement, launch into independence, etc. 
+graduation, college acceptance, job placement, launch into independence, etc.
