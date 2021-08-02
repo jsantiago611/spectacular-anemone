@@ -30,8 +30,7 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false,
-        "logo": "/images/image (3).png"
+        "has_anncmnt": false
     },
     "footer": {
         "type": "footer",
