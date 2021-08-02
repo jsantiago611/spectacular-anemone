@@ -22,7 +22,7 @@ thumb_image: /images/fabulous-comet.png
 ---
 ### ---
 
-Introduction
+## Introduction
 
 \*\*\*\*\*\*Scripture for
 the most part is left out. Only main ideas are communicated here.\*\*\*\*\*\*\*\*\*\*\*
@@ -35,12 +35,11 @@ the most part is left out. Only main ideas are communicated here.\*\*\*\*\*\*\*\
 > them grow up in every way into Christ, following a plan that is well
 > thought-out and sustainable. 18
 
-A few warnings:
+### A few warnings:
 
-1.       “This is no ‘silver bullet’ for building a
-perfect family. Seesaws between
+1.       “This is no ‘silver bullet’ for building a perfect family. Seesaws between
 disappointing and delighting. From “used a bad word”…to “ended in argument”…to ruined
-family tradition”…”every mom and dad…have some residue of shame to battle and
+family tradition”…” every mom and dad…have some residue of shame to battle and
 great need for grace regarding what they wish they would have done.”
 
 2.      You will feel inadequate. Concerning your knowledge of God. Or your ability
@@ -52,21 +51,15 @@ cause’. When the God of the Bible is involved.” 20 “Despite bumps along th
 way, many of us will see faith sparked in the lives of our children through
 intentional discipleship.”
 
-How to use this
-book:
+### How to use this book:
 
-·        
-Read
-actively, making notes, answering questions, and filling in the charts.
+*   Read actively, making notes, answering questions, and filling in the charts.
 
-·        
-If
-married, read with spouse “to help you get in sync”. If single or have an
+If married, read with spouse “to help you get in sync”. If single or have an
 unbelieving spouse, “use as a motivator to ask some of your trusted church community
 to go through the framework of time, moments, and milestones…”
 
-What we are not
-saying about leading your family: 24
+### What we are not saying about leading your family: 24
 
 \*1.       \*We are not asking you to make your kids the
 most important thing in your life.
