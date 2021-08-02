@@ -36,6 +36,8 @@
         font-size: calc( 30px + (48 - 24) * ( 100vw - 400px ) / (2500 - 400) );
 		&:first-child {
 			margin-top: 0;
+                    font-size: calc( 30px + (48 - 24) * ( 100vw - 400px ) / (2500 - 400) );
+
 		}
 	}
 }
