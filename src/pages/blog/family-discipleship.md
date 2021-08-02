@@ -250,7 +250,7 @@ lightly.matt 18:6
 
 8.      God gives families the gift of forgiveness.
 
-Modeling
+## Modeling
 
 Family
 Discipleship modeling defined:
