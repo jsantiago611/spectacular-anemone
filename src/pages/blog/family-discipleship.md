@@ -30,16 +30,16 @@ Scripture for the most part is left out. Only main ideas are communicated here
 
 ### A few warnings:
 
-1.   “This is no ‘silver bullet’ for building a perfect family. Seesaws between
+1.  **“This is no ‘silver bullet’** for building a perfect family. Seesaws between
     disappointing and delighting. From “used a bad word”…to “ended in argument”…to ruined
     family tradition”…” every mom and dad…have some residue of shame to battle and
     great need for grace regarding what they wish they would have done.”
 
-2.  You will feel inadequate. Concerning your knowledge of God. Or your ability
+2.  **You will feel inadequate.** Concerning your knowledge of God. Or your ability
     to teach. Be encouraged, this is God’s work. We cannot save our children. We
     are merely invited to be part of the journey.
 
-3.  Not all children will know God. Remember: “there is no ‘hopeless case’ or a ‘lost
+3.  **Not all children will know God.** Remember: “there is no ‘hopeless case’ or a ‘lost
     cause’. When the God of the Bible is involved.” 20 “Despite bumps along the
     way, many of us will see faith sparked in the lives of our children through
     intentional discipleship.”
