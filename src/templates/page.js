@@ -22,7 +22,7 @@ export default class Page extends React.Component {
             <article className="page py-5 py-sm-6">
             	<div className="container container--medium">
             		<header className="page__header">
-            			<h1 style={{fontFamily:'tobias', fontWeight: "100", letterSpacing: -0.4 font color:"#1B4942"}}className="page__title">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
+            			<h1 style={{fontFamily:'tobias', fontWeight: "100", letterSpacing: -0.4, color:"#1B4942"}}className="page__title">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
             		</header>
             		<div className="page__body text-block">
             			{htmlToReact(_.get(this.props, 'pageContext.html', null))}
