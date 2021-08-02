@@ -37,7 +37,7 @@ Reach out sd
 
 ### Colophon
 
-Discipleship Labs uses [Soehne ](https://klim.co.nz/retail-fonts/soehne/)for headlines + body text and [Tobias ](https://displaay.net/typeface/tobias/)for quotes + other page headings. The backend runs on the [JAMStack ](https://jamstack.wtf/)using [GatsbyJS ](https://www.gatsbyjs.com/)as the Static Site Generator. The content is hosted on Github, and the site is built on Netlify. Everything is easily managed via [StackBit ](https://www.stackbit.com/about)(a site builder that connects all these technologies). The site doesn't use Google Analytics (or any other analytics software) because your privacy matters. Your identity and how many times you visit the site are not tracked at all.
+Discipleship Labs uses [Soehne ](https://klim.co.nz/retail-fonts/soehne/)for headlines + body text and [Tobias ](https://displaay.net/typeface/tobias/)for quotes + other page headings. 
 
 ### License
 
@@ -45,7 +45,9 @@ sdf
 
 ### Technical Notes
 
-sdf
+The backend runs on the [JAMStack ](https://jamstack.wtf/)using [GatsbyJS ](https://www.gatsbyjs.com/)as the Static Site Generator. The content is hosted on Github, and the site is built on Netlify. Everything is easily managed via [StackBit ](https://www.stackbit.com/about)(a site builder that connects all these technologies). 
+
+The site doesn't use Google Analytics (or any other analytics software) because your privacy matters. Your identity and how many times you visit the site are not tracked at all.
 
 ### Theological Perspective
 
