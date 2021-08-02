@@ -11,6 +11,7 @@ body {
 	line-height: 1.66667;
 	text-rendering: optimizeLegibility;
 	@include font-smooth();
+    font-size: calc( 23px + (24 - 17) * ( 100vw - 400px ) / (2500 - 400) );
 }
 
 @each $style in map-keys($theme-styles) {
