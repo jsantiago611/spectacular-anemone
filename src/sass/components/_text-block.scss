@@ -32,7 +32,7 @@
 	pre,
 	hr {
         font-style: italic;
-        font-family: $font-family-mo;
+        font-family: $font-family-body;
         font-size: calc( 30px + (48 - 24) * ( 100vw - 400px ) / (2500 - 400) );
 		&:first-child {
 			margin-top: 0;
