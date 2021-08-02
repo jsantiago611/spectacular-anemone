@@ -33,9 +33,9 @@
 	hr {
         font-style: italic;
         font-family: $font-family-body;
+        color:red;
 		&:first-child {
 			margin-top: 0;
-            color:red;
 		}
 	}
 }
