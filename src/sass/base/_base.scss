@@ -2,8 +2,7 @@
  * Base Styles
  */
 html {
-	/*font-size: 112.5%;*/
-    font-size: calc( 23px + (24 - 17) * ( 100vw - 400px ) / (2500 - 400) );
+	font-size: 112.5%;
 }
 
 body {
