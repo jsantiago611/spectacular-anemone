@@ -22,7 +22,7 @@ thumb_image: /images/fabulous-comet.png
 ---
 ## Introduction
 
-\*\*\*\*\*\*Scripture for the most part is left out. Only main ideas are communicated here.\*\*\*\*\*\*\*\*\*\*\*
+Scripture for the most part is left out. Only main ideas are communicated here
 
 > "One of the grandest of those responsibilities is the call to all parents to be
 > disciple-makers in their own homes. A disciple-maker is a follower of
