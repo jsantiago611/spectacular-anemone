@@ -29,8 +29,6 @@ seo:
       relativeUrl: true
 template: page
 ---
-
-
 Your mind is your most precious asset. -[Anne-Laure Le Cunff](https://twitter.com/anthilemoon)
 
 ### Hey!
@@ -39,7 +37,7 @@ Reach out sd
 
 ### Colophon
 
-sdf
+Discipleship Labs uses Soehne for headlines + body text and Tobias for quotes + other page headings. The backend runs on the JAMStack using GatsbyJS as the Static Site Generator. The content is hosted on Github, and the site is built on Netlify. Everything is easily managed via StackBit (a site builder that connects all these technologies). The site doesn't use Google Analytics (or any other analytics software) because your privacy matters. Your identity and how many times you visit the site are not tracked at all.
 
 ### License
 
