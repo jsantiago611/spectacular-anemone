@@ -33,21 +33,21 @@ body {
   font-style: normal;
 }
 
-/*@font-face {
+@font-face {
   font-family: "Soehne";
   src: url("../fonts/soehnewebbuchkursiv.woff") format("woff");
   font-weight: 400;
   font-style: italic;
-}*/
+}
 
-@font-face {
+/*@font-face {
   font-family: "soehne";
   src: url("../fonts/Tobias-Thin.woff") format("woff");
   font-weight: 100;
   font-style: italic;
   font-size: calc( 30px + (48 - 24) * ( 100vw - 400px ) / (2500 - 400) );
   color: $forestgreen;
-}
+}*/
 
 @font-face {
   font-family: "Soehne Mono";
