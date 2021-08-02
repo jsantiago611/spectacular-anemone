@@ -26,9 +26,7 @@ Scripture for the most part is left out. Only main ideas are communicated here
 
 > ###### "One of the grandest of those responsibilities is the call to all parents to be&#xA;disciple-makers in their own homes. A disciple-maker is a follower of&#xA;Christ helping others follow Christ.” 17
 
-> “The hope of this book is to prepare you to equip your family for the work of ministry and help
-> them grow up in every way into Christ, following a plan that is well
-> thought-out and sustainable. 18
+> ###### “The hope of this book is to prepare you to equip your family for the work of ministry and help&#xA;them grow up in every way into Christ, following a plan that is well&#xA;thought-out and sustainable. 18
 
 ### A few warnings:
 
