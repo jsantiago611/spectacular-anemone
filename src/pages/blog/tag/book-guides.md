@@ -1,7 +1,7 @@
 ---
 title: Book Guides
 sections:
-  - title: lorem-ipsum
+  - title: Book Guides
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
