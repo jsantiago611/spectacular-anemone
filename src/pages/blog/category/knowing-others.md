@@ -23,6 +23,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    category: src/data/categories/category-1a091znz0.yaml
 seo:
   title: ''
   description: ''
