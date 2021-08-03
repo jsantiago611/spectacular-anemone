@@ -43,7 +43,7 @@ sections:
     type: blog_feed_section
   - title: Topics
     features:
-      - title: lorem-ipsum
+      - title: Knowing God
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
