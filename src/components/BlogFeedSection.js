@@ -39,7 +39,7 @@ export default class BlogFeedSection extends React.Component {
             	{_.get(section, 'background_image', null) && (
             	<div className="cover-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(section, 'background_image', null)) + '\'); opacity: ' + bg_img_opacity + '; background-size: ' + bg_img_size + '; background-repeat: ' + bg_img_repeat + '; background-position: ' + bg_img_position)}/>
             	)}
-            	{(_.get(section, 'subtitle', null) || _.get(section, 'title', null)) && (
+            	{(_.get(section, 'title', null) || _.get(section, 'subtitle', null)) && (
             	<div className={classNames('container', 'container--medium', 'mb-5', {'text-center': align_x === 'center', 'text-right': align_x === 'right'})}>
             		{_.get(section, 'subtitle', null) && (
             		<div className="section__subtitle">{_.get(section, 'subtitle', null)}</div>
