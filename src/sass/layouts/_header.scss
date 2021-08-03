@@ -86,7 +86,7 @@
         color: #222;
 
 		.menu__item {
-			margin-bottom: 0.55556rem;
+			margin-bottom: 0.4rem;
             font-size: calc( 38px + (108 - 36) * ( 100vw - 400px ) / (2500 - 400) );
 
 			& + .menu__item-btn {
