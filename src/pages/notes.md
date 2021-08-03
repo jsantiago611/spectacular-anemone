@@ -7,16 +7,7 @@ sections:
       various biblical texts, so that I can document my journey and share what
       I'm learning. Enjoy! I've tried to organize by text to make discovery
       easier.
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     blog_feed_cols: three
     enable_cards: false
     show_recent: true
