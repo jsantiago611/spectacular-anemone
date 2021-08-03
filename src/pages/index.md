@@ -3,10 +3,10 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      Hi, I'm Jonathan and this is my digital handbook on Christian Lifestyle
-      Design. Discover tools to help you enhance your devotional life and live
-      out your faith. Explore the tools and techniques that help you to build
-      successful spiritual habits.
+      Hi, I'm Jonathan. Peek inside my digital handbook on Christian Lifestyle
+      Design, where you'll discover tools to help you enhance your devotional
+      life and live out your faith. Explore the tools and techniques that help
+      you to build successful spiritual habits.
     actions: []
     image_alt: A smiling woman
     media_position: top
