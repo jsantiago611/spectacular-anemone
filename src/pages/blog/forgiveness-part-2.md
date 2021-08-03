@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Forgiveness: Part 2'
 subtitle: lorem-ipsum
 date: '2021-08-03'
 categories: []
