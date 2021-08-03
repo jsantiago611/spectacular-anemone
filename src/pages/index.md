@@ -54,7 +54,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: Know the Heart
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
