@@ -18,9 +18,4 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+This note is part of a series of notes I'm taking as I respond and react to Tim Keller's yearlong devotional book, "God's Wisdom for Navigating Life."
