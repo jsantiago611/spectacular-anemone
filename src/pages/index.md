@@ -3,10 +3,10 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      Experiments in Christian Lifestyle Design. Tools to help Christians
-      enhance their devotional life and live out their faith. On this site, we
-      explore the tools and techniques that help us to build successful
-      spiritual habits.
+      Welcome to Discipleship Labs, a digital handbook on Experiments in
+      Christian Lifestyle Design. Tools to help Christians enhance their
+      devotional life and live out their faith. On this site, we explore the
+      tools and techniques that help us to build successful spiritual habits.
     actions: []
     image_alt: A smiling woman
     media_position: top
