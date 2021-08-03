@@ -5,7 +5,8 @@ subtitle: >-
   what they did."" (Prov. 24:29)
 date: '2021-08-03'
 categories: []
-tags: []
+tags:
+  - src/data/tags/tag-poqhea438.yaml
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
