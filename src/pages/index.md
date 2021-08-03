@@ -42,36 +42,6 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
   - title: Topics
-    features:
-      - title: Knowing God
-        subtitle: lorem-ipsum
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: thirty-three
-        align: left
-        type: feature
-        image: /images/dlabs-god.png
-      - title: Know the Heart
-        subtitle: lorem-ipsum
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
-  - title: Topics
     actions: []
     grid_items:
       - title: Knowing God
