@@ -1,7 +1,7 @@
 ---
 title: Knowing Others
 sections:
-  - title: lorem-ipsum
+  - title: Knowing Others
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
