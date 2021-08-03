@@ -2,7 +2,11 @@
 title: Notes
 sections:
   - title: Notes
-    subtitle: lorem-ipsum
+    subtitle: >-
+      This page contains Bible Study notes on what I'm learning as I go through
+      various biblical texts, so that I can document my journey and share what
+      I'm learning. Enjoy! I've tried to organize by text to make discovery
+      easier.
     actions: []
     blog_feed_cols: three
     enable_cards: false
