@@ -1,7 +1,7 @@
 ---
 title: Notes
 sections:
-  - title: lorem-ipsum
+  - title: Notes
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
