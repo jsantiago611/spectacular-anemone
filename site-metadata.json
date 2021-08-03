@@ -29,7 +29,7 @@
                 "type": "action"
             },
             {
-                "label": "Notes",
+                "label": "Book Summaries",
                 "url": "/notes",
                 "style": "link",
                 "has_icon": false,
