@@ -5,8 +5,7 @@ subtitle: >-
   what they did."" (Prov. 24:29)
 date: '2021-08-03'
 categories: []
-tags:
-  - src/data/tags/tag-1mvll1wq1.yaml
+tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
