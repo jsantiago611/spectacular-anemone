@@ -1,5 +1,5 @@
 ---
-title: knowing
+title: knowing others
 sections: []
 seo:
   title: ''
