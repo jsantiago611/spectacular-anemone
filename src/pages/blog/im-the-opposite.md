@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: '"Everything my parents did, I''m the opposite."'
 subtitle: lorem-ipsum
 date: '2021-08-03'
 categories: []
