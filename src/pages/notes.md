@@ -27,7 +27,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-    tag: src/data/tags/tag-mggw3mbp5.yaml
 seo:
   title: ''
   description: ''
