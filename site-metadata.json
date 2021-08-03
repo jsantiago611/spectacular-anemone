@@ -29,7 +29,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "notes",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
