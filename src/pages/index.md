@@ -71,7 +71,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: lorem-ipsum
+  - title: Topics
     subtitle: lorem-ipsum
     actions: []
     grid_items:
