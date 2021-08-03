@@ -47,7 +47,7 @@ sections:
       - title: Knowing God
         subtitle: lorem-ipsum
         title_align: left
-        content_align: left
+        content_align: center
         actions:
           - label: Explore
             url: '#'
