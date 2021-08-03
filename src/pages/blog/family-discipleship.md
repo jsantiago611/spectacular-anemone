@@ -6,6 +6,7 @@ categories:
   - src/data/categories/category-k1fm3fzt0.yaml
 tags:
   - src/data/tags/tag-1mvll1wq1.yaml
+  - src/data/tags/tag-4e04n9tum.yaml
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
