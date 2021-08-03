@@ -19,6 +19,7 @@ seo:
 template: post
 image: /images/fd.png
 thumb_image: /images/fabulous-comet.png
+author: src/data/team/person-kwwj7h76n.yaml
 ---
 ## Introduction
 
