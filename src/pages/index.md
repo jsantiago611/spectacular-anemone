@@ -49,7 +49,7 @@ sections:
         title_align: left
         content_align: center
         actions:
-          - label: Explore
+          - label: Know God
             url: '#'
             style: secondary
             has_icon: true
