@@ -51,6 +51,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/dlabs-god.png
       - title: Know the Heart
         subtitle: lorem-ipsum
         actions: []
