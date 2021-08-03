@@ -66,6 +66,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/about.jpg
       - title: Know the Heart
         subtitle: lorem-ipsum
         title_align: left
