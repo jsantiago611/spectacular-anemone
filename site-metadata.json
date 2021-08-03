@@ -30,7 +30,7 @@
             },
             {
                 "label": "Notes",
-                "url": "#",
+                "url": "/notes",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
