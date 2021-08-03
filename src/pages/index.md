@@ -58,7 +58,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/great-whale.png
-      - title: lorem-ipsum
+      - title: Know the Heart
         subtitle: lorem-ipsum
         title_align: left
         content: >-
