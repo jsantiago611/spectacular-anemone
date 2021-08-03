@@ -105,7 +105,8 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; 2021 "
+        "content": "&copy; 2021 ",
+        "logo": "/images/Screenshot_2021-07-27_112624-removebg-preview.png"
     },
     "domain": "https://spectacular-anemone-e107f.netlify.app",
     "favicon": "/images/magenta-planet.png"
