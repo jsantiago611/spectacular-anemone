@@ -4,8 +4,7 @@ subtitle: >-
   "Do not say, "I'll do to them as they have done to me; I'll pay them back for
   what they did."" (Prov. 24:29)
 date: '2021-08-03'
-categories:
-  - src/data/categories/category-1a091znz0.yaml
+categories: []
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
