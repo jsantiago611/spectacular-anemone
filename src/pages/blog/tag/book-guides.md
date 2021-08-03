@@ -23,6 +23,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    tag: src/data/tags/tag-4e04n9tum.yaml
 seo:
   title: ''
   description: ''
