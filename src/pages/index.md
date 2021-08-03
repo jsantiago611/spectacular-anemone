@@ -74,7 +74,7 @@ sections:
   - title: Topics
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Knowing God
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
