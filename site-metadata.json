@@ -30,7 +30,7 @@
             },
             {
                 "label": "Book Guides",
-                "url": "/notes",
+                "url": "/blog/tag/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
