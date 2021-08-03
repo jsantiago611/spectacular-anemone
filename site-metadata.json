@@ -29,7 +29,7 @@
                 "type": "action"
             },
             {
-                "label": "notes",
+                "label": "Notes",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
