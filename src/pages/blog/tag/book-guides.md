@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Book Guides
 sections: []
 seo:
   title: ''
