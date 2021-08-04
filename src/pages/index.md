@@ -98,7 +98,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Latest
+  - title: Must-Read Posts
     actions: []
     blog_feed_cols: three
     enable_cards: false
