@@ -5,7 +5,7 @@ sections:
     subtitle: 'Awesome Christians from around the web, in random order'
     actions: []
     grid_items: []
-    grid_cols: three
+    grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
