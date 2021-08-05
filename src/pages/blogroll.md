@@ -5,7 +5,7 @@ sections:
     subtitle: 'Awesome Christians from around the web, in random order'
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Stephen Altrogge
         subtitle: lorem-ipsum
         title_align: left
         content: >-
