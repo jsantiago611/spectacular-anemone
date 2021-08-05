@@ -6,7 +6,6 @@ sections:
     actions: []
     grid_items:
       - title: Stephen Altrogge
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
