@@ -7,17 +7,14 @@ sections:
     grid_items:
       - title: Stephen Altrogge
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          <https://theblazingcenter.com/>
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Stephen is a writer who runs theblazingcenter, a blog about a variety
+          of Christian topics such as prayer, spiritual growth, etc. There's a
+          cool list of recommended books and a link to his hilarious twitter
+          feed. Seriously, go check out his twitter feed.
         content_align: left
         actions: []
         actions_align: left
