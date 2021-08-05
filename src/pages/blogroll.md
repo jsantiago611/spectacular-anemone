@@ -2,7 +2,7 @@
 title: Blogroll
 sections:
   - title: Blogroll
-    subtitle: lorem-ipsum
+    subtitle: 'Awesome Christians from around the web, in random order'
     actions: []
     grid_items: []
     grid_cols: three
