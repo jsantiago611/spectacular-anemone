@@ -1,7 +1,7 @@
 ---
 title: Blogroll
 sections:
-  - title: lorem-ipsum
+  - title: Blogroll
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
