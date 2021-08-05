@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Blogroll
 sections: []
 seo:
   title: ''
