@@ -70,6 +70,13 @@ body {
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Soehne Mono";
+  src: url("../fonts/soehne-web-halbfett.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
 $font-family-header: 'Soehne', BlinkMacSystemFont, 'Segoe UI', 'Roboto',
     'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
