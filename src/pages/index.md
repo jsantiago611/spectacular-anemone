@@ -14,7 +14,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: secondary
     background_image_opacity: 40
     background_image_size: contain
     background_image_repeat: repeat
