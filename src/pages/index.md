@@ -20,7 +20,7 @@ sections:
     background_image_repeat: repeat
     title: A Digital Handbook on Christian Lifestyle Design.
     has_border: true
-  - title: Must-Read Posts
+  - title: Latest Posts
     actions: []
     blog_feed_cols: three
     enable_cards: true
