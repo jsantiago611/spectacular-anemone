@@ -41,8 +41,7 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false,
-        "logo": "/images/DLAB-WIDE.png"
+        "has_anncmnt": false
     },
     "footer": {
         "type": "footer",
