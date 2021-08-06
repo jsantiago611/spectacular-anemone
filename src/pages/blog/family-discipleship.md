@@ -63,10 +63,7 @@ to go through the framework of time, moments, and milestones…”
 
 ### What we are not saying about leading your family: 24
 
-\*1.       \*We are not asking you to make your kids the
-most important thing in your life.
-“we want to be experts at fighting the temptation to put our family first in a
-way that usurps following our God.”24
+###### \*1.       \*We are not asking you to make your kids the&#xA;most important thing in your life.&#xA;“we want to be experts at fighting the temptation to put our family first in a&#xA;way that usurps following our God.”24
 
 2.      We are not putting responsibility for your
 child’s salvation on you. “Making
