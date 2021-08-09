@@ -56,7 +56,7 @@ seo:
       value: The preview of the Personal theme
       keyName: property
     - name: 'og:image'
-      value: images/personal-preview.png
+      value: /_static/app-assets/Screenshot_2021-07-27_112624-removebg-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
