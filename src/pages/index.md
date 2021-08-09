@@ -43,7 +43,7 @@ sections:
     type: blog_feed_section
 seo:
   type: stackbit_page_meta
-  title: Stackbit Personal Theme
+  title: The Parent's Progress
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
