@@ -1,5 +1,5 @@
 ---
-title: About Discipleship Labs
+title: About The Parent's Progress
 seo:
   type: stackbit_page_meta
   title: About
