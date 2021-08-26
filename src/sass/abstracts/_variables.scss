@@ -271,6 +271,100 @@ $themes: (
     buttonTextHoverColor: #61b0e7,
     buttonColor: #fff,
     buttonBorder: 2px solid #fff,
+
+    //britomark
+$neongreen2:                            #33ECB4;
+$darkgreen:                             #0A3232;
+
+
+// Base
+$color-body-text:                      $gray !default;
+$color-meta:                           $forestgreen !default;
+$color-body-bg:                        #fff !default;
+
+// Highlight
+$color-highlight-text:                 $gray !default;
+$color-highlight-bg:                   $teal !default;
+
+// Code blocks
+$color-code-border:                    #eceef1 !default;
+$color-code-bg:                        #f7f8f9 !default;
+$color-bold-code-bg:                   #eceef1 !default;
+
+// Tables
+$color-table-border:                   #eceef1 !default;
+$color-table-bg:                       #f7f8f9 !default;
+$color-bold-table-bg:                  #eceef1 !default;
+
+// HR
+$color-hr-border:                      #eceef1 !default;
+
+// Buttons
+$color-btn-text:                       #fff !default;
+$color-btn-bg:                         $color-primary !default;
+$color-btn-alt-text:                   #fff !default;
+$color-btn-alt-bg:                     #2c343c !default;
+$color-bold-btn-shadow:                #bfc7d0 !default;
+$color-gray-btn-alt-bg:                #8696a6 !default;
+
+// Forms
+$color-input-text:                     #2c343c !default;
+$color-input-bg:                       #fff !default;
+$color-input-border:                   #eceef1 !default;
+$color-classic-input-bg:               #f7f8f9 !default;
+$color-bold-input-bg:                  #eceef1 !default;
+
+// Cards
+$color-card-text:                      #2c343c !default;
+$color-card-bg:                        #fff !default;
+$color-card-border:                    $teal !default;
+$color-classic-card-shadow:            rgba(33,205,156,.1) !default;
+$color-bold-card-border:               #2c343c !default;
+
+// Main nav
+$color-nav-link-text:                  #2c343c !default;
+$color-nav-link-border:                $color-primary !default;
+$color-nav-mobile-bg:                  #fff !default;
+$color-nav-mobile-border:              #eceef1 !default;
+$color-nav-mobile-overlay:             rgba(236,238,241,.8) !default;
+$color-bold-nav-mobile-border:         #2c343c !default;
+$color-bold-nav-mobile-overlay:        rgba(44,52,60,.8) !default;
+
+// Header
+$color-header-border:                  #eceef1 !default;
+$color-bold-header-border:             #2c343c !default;
+
+// Footer
+$color-footer-border:                  #eceef1 !default;
+$color-bold-footer-border:             #2c343c !default;
+
+// Announcement
+$color-anncmnt-bg:                     #eceef1 !default;
+$color-bold-anncmnt-bg:                #2c343c !default;
+$color-bold-anncmnt-text:              #fff !default;
+
+// Sections
+$color-sect-border:                    #eceef1 !default;
+$color-bold-sect-border:               #2c343c !default;
+$color-classic-sect-underline:         $color-primary !default;
+$color-sect-input-bg:                  #fff !default;
+$color-primary-sect-bg:                $color-primary !default;
+$color-primary-sect-text:              #fff !default;
+$color-primary-sect-btn-text:          #2c343c !default;
+$color-primary-sect-btn-bg:            #fff !default;
+$color-secondary-sect-bg:              $darkgreen !default;
+$color-secondary-sect-code-border:     #fff !default;
+$color-secondary-sect-code-bg:         #fff !default;
+$color-secondary-sect-table-border:    #fff !default;
+$color-secondary-sect-table-bg:        #fff !default;
+$color-secondary-sect-hr-border:       #fff !default;
+
+// Boxed layout
+$color-boxed-bg:                       #f7f8f9 !default;
+$color-boxed-border:                   #eceef1 !default;
+$color-bold-boxed-border:              #2c343c !default;
+
+
   ),
   dark: (
     backgroundColor: #222,
