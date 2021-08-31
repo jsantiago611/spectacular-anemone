@@ -34,7 +34,7 @@ Scripture for the most part is left out. Only main ideas are communicated here
 1.  **“This is no ‘silver bullet’** for building a perfect family. Seesaws between
     disappointing and delighting. From “used a bad word”…to “ended in argument”…to ruined
     family tradition”…” every mom and dad…have some residue of shame to battle and
-    great need for grace regarding what they wish they would have done.”
+    a great need for grace regarding what they wish they would have done.”
 
 2.  **You will feel inadequate.** Concerning your knowledge of God. Or your ability
     to teach. Be encouraged, this is God’s work. We cannot save our children. We
@@ -49,26 +49,20 @@ Scripture for the most part is left out. Only main ideas are communicated here
 
 *   Read actively, making notes, answering questions, and filling in the charts.
 
-If married, read with spouse *“to help you get in sync”. *If single or have an
+If married, read with spouse \*“to help you get in sync”. \*If single or have an
 unbelieving spouse, *“use as a motivator to ask some of your trusted church community
 to go through the framework of time, moments, and milestones…”*
 
 ### What we are not saying about leading your family: 24
 
-###### \*1.       \*We are not asking you to make your kids the&#xA;most important thing in your life.&#xA;“we want to be experts at fighting the temptation to put our family first in a&#xA;way that usurps following our God.”24
+\*1.       \*We are not asking you to make your kids the most important thing in your life.
+“we want to be experts at fighting the temptation to put our family first in a way that usurps following our God.”24
 
-2.      We are not putting responsibility for your
-child’s salvation on you. “Making
-disciples is about stacking and gathering the kindlings of truths, but only God
-can spark the fire.”
+2.      We are not putting responsibility for your child’s salvation on you. “Making disciples is about stacking and gathering the kindlings of truths, but only God can spark the fire.”
 
-3.      We are not shaming you. “If you defeated and sinking in shame or
-guilt, stop reading, take a deep breath, and remind yourself that Christ came
-that you might be free from sin and condemnation.”
+3.      We are not shaming you. “If you defeated and sinking in shame or guilt, stop reading, take a deep breath, and remind yourself that Christ came that you might be free from sin and condemnation.”
 
-4.      We are not unduly comparing you to other
-families. “God’s not looking
-at your and wising your kids were born in a different family.”
+4.      We are not unduly comparing you to other families. “God’s not looking at your and wising your kids were born in a different family.”
 
 5.      We are not asking you to fake it. Your kids see you at your worst, which is why
 we should own up and apologize to them and God. But that’s not an excuse to
