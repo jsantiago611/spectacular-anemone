@@ -45,21 +45,13 @@ Scripture for the most part is left out. Only main ideas are communicated here
     way, many of us will see faith sparked in the lives of our children through
     intentional discipleship.”
 
-*   1
-
-*   2
-
-*   3
-
-*
-
 ### How to use this book:
 
 *   Read actively, making notes, answering questions, and filling in the charts.
 
-If married, read with spouse “to help you get in sync”. If single or have an
-unbelieving spouse, “use as a motivator to ask some of your trusted church community
-to go through the framework of time, moments, and milestones…”
+If married, read with spouse *“to help you get in sync”. *If single or have an
+unbelieving spouse, *“use as a motivator to ask some of your trusted church community
+to go through the framework of time, moments, and milestones…”*
 
 ### What we are not saying about leading your family: 24
 
