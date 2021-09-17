@@ -9,7 +9,7 @@ sections:
       you to build successful spiritual habits.
     actions: []
     image_alt: A smiling woman
-    media_position: top
+    media_position: left
     media_width: fourty
     align: left
     padding_top: large
