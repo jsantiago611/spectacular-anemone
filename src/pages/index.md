@@ -20,7 +20,6 @@ sections:
     background_image_repeat: repeat
     title: A Digital Handbook on Christian Lifestyle Design.
     has_border: true
-    image: /images/DrawKit-Fathers-Day-Illustrations-03.png
   - title: Latest Posts
     actions: []
     blog_feed_cols: three
