@@ -41,8 +41,7 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false,
-        "logo": "/images/Screenshot 2021-10-13 104218.png"
+        "has_anncmnt": false
     },
     "footer": {
         "type": "footer",
